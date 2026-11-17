@@ -1,0 +1,39 @@
+{
+  "status": "completed",
+  "python": "3.12.6",
+  "versions": {
+    "pandas": "2.3.1",
+    "numpy": "1.26.4",
+    "scikit-learn": "1.9.0",
+    "scipy": "1.15.1",
+    "matplotlib": "3.10.3",
+    "torch": "2.15.0",
+    "transformers": "5.23.0",
+    "openai": "1.60.2",
+    "anthropic": "2.10.0",
+    "boto3": "1.44.4",
+    "fastapi": "0.119.0"
+  },
+  "input_sha256": {
+    "demo_videos.csv": "52c91d56afa97a5e3bbad05bd58a9026079c7cd2d83308678dd6e876494cb12a",
+    "seed_training.csv": "51d1bb35feef0f3e0672774ac18ba54b50c13ccbbe04a9e4a0a30360be7d433b"
+  },
+  "config": {
+    "torch": true,
+    "vision": false,
+    "providers": []
+  },
+  "artifacts_sha256": {
+    "categories.png": "ff898c4211f88dd6406ddf04dca65e1452ac07041cdea1672f93053a2ed76fe4",
+    "duration_seconds.png": "fdd4cf3b97114d740eb28971185b654cc301e9ad4289b46e31b1c2ade8d474b1",
+    "enriched_videos.csv": "c9851c757c78e1febce61c13ad56921ad63208c6587aaa65ba3316a68941b418",
+    "execution_trace.jsonl": "f04df955176a9c61fa3a1800bab2f48a564fbac55ba4ee420d1fe2a3a3a61a44",
+    "hashtag_count.png": "bbaff14e5b65d7ba59edc45fefe54f315e1f1dbcce8abc397b05a9d25d7d2f0d",
+    "human_review_template.csv": "e9cad5d4e5666ebe23e5d564e674ae9b5eb08ded7a81eea665bcb0a1c556a2e5",
+    "performance_comparison.csv": "cacc7650b132534c92cb54f981df0ff7a5a3b63201a3bb97e07bc1561d2404f3",
+    "report.html": "aa1ba2d6c7c1bc86c697876d485076a7eed73b7b3415933a97278f6f6e464828",
+    "statistics.json": "30938e976ac49cad8c9ac6b9cea079bd0c9bce86d5554d9adbf4be4fc0daa21e"
+  },
+  "submission_ready": false,
+  "note": "submission_ready checks data/review targets only; instructor assesses the complete rubric"
+}

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "prv201-videolens"
+version = "0.1.0"
+description = "Reproducible single-platform video engagement analysis prototype"
+requires-python = ">=3.11"
+dependencies = ["pandas>=2.1,<4", "numpy>=1.26,<3", "scipy>=1.11,<2", "scikit-learn>=1.4,<2", "matplotlib>=3.8,<4", "fastapi>=0.110,<1", "uvicorn>=0.27,<1", "python-dotenv>=1,<2"]
+[project.optional-dependencies]
+full = ["torch>=2.2,<3", "transformers>=4.40,<6", "Pillow>=10,<13", "anthropic>=0.40,<3", "openai>=1.68,<3", "boto3>=1.35,<2"]
+dev = ["pytest>=8,<10", "httpx>=0.27,<1"]
+[project.scripts]
+videolens = "videolens.cli:main"
+[tool.setuptools.packages.find]
+include = ["videolens*"]
+[tool.pytest.ini_options]
+testpaths = ["tests"]

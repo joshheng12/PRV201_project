@@ -1,0 +1,128 @@
+{
+  "created_at": "2026-11-17T18:52:07.340151+00:00",
+  "video_count": 60,
+  "contains_synthetic_data": true,
+  "median_engagement_rate": 0.026531177335796477,
+  "feature_relationships": [
+    {
+      "feature": "duration_seconds",
+      "spearman_rho": -0.2032871613530643,
+      "p_value": 0.11926949682100534,
+      "status": "exploratory; unadjusted p-value"
+    },
+    {
+      "feature": "hashtag_count",
+      "spearman_rho": 0.36378852421970503,
+      "p_value": 0.004273665296760651,
+      "status": "exploratory; unadjusted p-value"
+    },
+    {
+      "feature": "title_length",
+      "spearman_rho": 0.0608895061172645,
+      "p_value": 0.6439696568408178,
+      "status": "exploratory; unadjusted p-value"
+    }
+  ],
+  "model_comparison": {
+    "features": [
+      "duration_seconds",
+      "hashtag_count",
+      "title_length"
+    ],
+    "split": "held-out creators (GroupShuffleSplit, seed 201)",
+    "train_count": 45,
+    "test_count": 15,
+    "train_video_ids": [
+      "SYNTHETIC_001",
+      "SYNTHETIC_002",
+      "SYNTHETIC_003",
+      "SYNTHETIC_004",
+      "SYNTHETIC_007",
+      "SYNTHETIC_008",
+      "SYNTHETIC_009",
+      "SYNTHETIC_010",
+      "SYNTHETIC_012",
+      "SYNTHETIC_013",
+      "SYNTHETIC_014",
+      "SYNTHETIC_015",
+      "SYNTHETIC_016",
+      "SYNTHETIC_019",
+      "SYNTHETIC_020",
+      "SYNTHETIC_021",
+      "SYNTHETIC_022",
+      "SYNTHETIC_024",
+      "SYNTHETIC_025",
+      "SYNTHETIC_026",
+      "SYNTHETIC_027",
+      "SYNTHETIC_028",
+      "SYNTHETIC_031",
+      "SYNTHETIC_032",
+      "SYNTHETIC_033",
+      "SYNTHETIC_034",
+      "SYNTHETIC_036",
+      "SYNTHETIC_037",
+      "SYNTHETIC_038",
+      "SYNTHETIC_039",
+      "SYNTHETIC_040",
+      "SYNTHETIC_043",
+      "SYNTHETIC_044",
+      "SYNTHETIC_045",
+      "SYNTHETIC_046",
+      "SYNTHETIC_048",
+      "SYNTHETIC_049",
+      "SYNTHETIC_050",
+      "SYNTHETIC_051",
+      "SYNTHETIC_052",
+      "SYNTHETIC_055",
+      "SYNTHETIC_056",
+      "SYNTHETIC_057",
+      "SYNTHETIC_058",
+      "SYNTHETIC_060"
+    ],
+    "test_video_ids": [
+      "SYNTHETIC_005",
+      "SYNTHETIC_006",
+      "SYNTHETIC_011",
+      "SYNTHETIC_017",
+      "SYNTHETIC_018",
+      "SYNTHETIC_023",
+      "SYNTHETIC_029",
+      "SYNTHETIC_030",
+      "SYNTHETIC_035",
+      "SYNTHETIC_041",
+      "SYNTHETIC_042",
+      "SYNTHETIC_047",
+      "SYNTHETIC_053",
+      "SYNTHETIC_054",
+      "SYNTHETIC_059"
+    ],
+    "mean_baseline": {
+      "mae": 0.006380774080753326,
+      "r2": -0.04944467544555664
+    },
+    "sklearn_ridge": {
+      "mae": 0.007064549718052149,
+      "r2": -0.1275094747543335
+    },
+    "pytorch": {
+      "status": "executed",
+      "architecture": "3 -> 8 ReLU -> 1",
+      "epochs": 250,
+      "mae": 0.008566087111830711,
+      "r2": -0.6992397308349609
+    },
+    "interpretation": "Exploratory holdout estimate, not a validated virality predictor. Engagement counts are excluded from predictors."
+  },
+  "human_review": {
+    "status": "pending",
+    "reviewed": 0,
+    "agreement": null,
+    "note": "No human labels supplied; 80% target is not yet assessed"
+  },
+  "vision": {
+    "status": "not requested",
+    "videos_with_frames": 0
+  },
+  "computed_summary": "Analyzed 60 partly or wholly synthetic videos. Median engagement was 2.65%. The strongest of the three numeric associations was hashtag_count (Spearman rho=0.364). This is exploratory association, not evidence of cause or reliable prediction.",
+  "narratives": []
+}

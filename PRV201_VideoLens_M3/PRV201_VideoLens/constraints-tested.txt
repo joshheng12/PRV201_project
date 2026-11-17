@@ -1,0 +1,18 @@
+# Direct dependency versions available during verification; optional reproducibility constraints.
+# Usage: pip install -e ".[full,dev]" -c constraints-tested.txt
+uvicorn==0.37.0
+python-dotenv==1.1.1
+Pillow==11.1.0
+pytest==9.0.2
+httpx==0.28.1
+pandas==2.3.1
+numpy==1.26.4
+scikit-learn==1.9.0
+scipy==1.15.1
+matplotlib==3.10.3
+torch==2.15.0
+transformers==5.23.0
+openai==2.54.0
+anthropic==2.10.0
+boto3==1.44.4
+fastapi==0.119.0

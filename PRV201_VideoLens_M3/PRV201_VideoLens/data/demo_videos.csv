@@ -1,0 +1,61 @@
+video_id,platform,title,description,views,likes,comments,duration_seconds,hashtags,data_origin,collected_at,creator_id,seed_category
+SYNTHETIC_001,youtube,science tutorial | demo 1,A fabricated education example for software demonstration only.,16504,306,41,287,#demo0 #demo1 #demo2 #demo3 #demo4 #demo5,synthetic,2026-11-17,synthetic_creator_0,education
+SYNTHETIC_002,youtube,dance performance | demo 2,A fabricated entertainment example for software demonstration only.,102754,2557,348,702,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_1,entertainment
+SYNTHETIC_003,youtube,cooking dinner | demo 3,A fabricated food example for software demonstration only.,77984,2086,284,532,#demo0,synthetic,2026-11-17,synthetic_creator_2,food
+SYNTHETIC_004,youtube,yoga flow | demo 4,A fabricated fitness example for software demonstration only.,24680,847,115,582,#demo0 #demo1 #demo2 #demo3 #demo4 #demo5,synthetic,2026-11-17,synthetic_creator_3,fitness
+SYNTHETIC_005,youtube,phone review | demo 5,A fabricated technology example for software demonstration only.,88815,1282,174,886,#demo0,synthetic,2026-11-17,synthetic_creator_4,technology
+SYNTHETIC_006,youtube,algebra lesson | demo 6,A fabricated education example for software demonstration only.,28578,359,49,300,#demo0,synthetic,2026-11-17,synthetic_creator_5,education
+SYNTHETIC_007,youtube,funny challenge | demo 7,A fabricated entertainment example for software demonstration only.,7473,175,23,854,#demo0,synthetic,2026-11-17,synthetic_creator_6,entertainment
+SYNTHETIC_008,youtube,pasta recipe | demo 8,A fabricated food example for software demonstration only.,35795,829,113,626,,synthetic,2026-11-17,synthetic_creator_7,food
+SYNTHETIC_009,youtube,yoga flow | demo 9,A fabricated fitness example for software demonstration only.,114436,1777,242,790,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_8,fitness
+SYNTHETIC_010,youtube,computer setup | demo 10,A fabricated technology example for software demonstration only.,30377,911,124,40,#demo0 #demo1 #demo2 #demo3 #demo4,synthetic,2026-11-17,synthetic_creator_9,technology
+SYNTHETIC_011,youtube,algebra lesson | demo 11,A fabricated education example for software demonstration only.,83419,2781,379,328,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_10,education
+SYNTHETIC_012,youtube,funny challenge | demo 12,A fabricated entertainment example for software demonstration only.,84611,1375,187,617,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_11,entertainment
+SYNTHETIC_013,youtube,pasta recipe | demo 13,A fabricated food example for software demonstration only.,92195,2827,385,486,#demo0 #demo1 #demo2 #demo3 #demo4,synthetic,2026-11-17,synthetic_creator_0,food
+SYNTHETIC_014,youtube,strength training | demo 14,A fabricated fitness example for software demonstration only.,101610,1282,174,418,#demo0,synthetic,2026-11-17,synthetic_creator_1,fitness
+SYNTHETIC_015,youtube,computer setup | demo 15,A fabricated technology example for software demonstration only.,109392,2242,305,389,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_2,technology
+SYNTHETIC_016,youtube,algebra lesson | demo 16,A fabricated education example for software demonstration only.,2902,70,9,80,#demo0 #demo1 #demo2,synthetic,2026-11-17,synthetic_creator_3,education
+SYNTHETIC_017,youtube,comedy sketch | demo 17,A fabricated entertainment example for software demonstration only.,60849,1168,159,85,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_4,entertainment
+SYNTHETIC_018,youtube,baking bread | demo 18,A fabricated food example for software demonstration only.,58830,1124,153,854,#demo0,synthetic,2026-11-17,synthetic_creator_5,food
+SYNTHETIC_019,youtube,workout routine | demo 19,A fabricated fitness example for software demonstration only.,78605,2559,349,304,#demo0 #demo1 #demo2 #demo3 #demo4 #demo5,synthetic,2026-11-17,synthetic_creator_6,fitness
+SYNTHETIC_020,youtube,coding project | demo 20,A fabricated technology example for software demonstration only.,105974,2550,347,643,#demo0,synthetic,2026-11-17,synthetic_creator_7,technology
+SYNTHETIC_021,youtube,study skills | demo 21,A fabricated education example for software demonstration only.,45905,937,127,842,#demo0 #demo1 #demo2,synthetic,2026-11-17,synthetic_creator_8,education
+SYNTHETIC_022,youtube,funny challenge | demo 22,A fabricated entertainment example for software demonstration only.,80854,1580,215,679,,synthetic,2026-11-17,synthetic_creator_9,entertainment
+SYNTHETIC_023,youtube,pasta recipe | demo 23,A fabricated food example for software demonstration only.,51463,1728,235,109,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_10,food
+SYNTHETIC_024,youtube,cardio exercise | demo 24,A fabricated fitness example for software demonstration only.,82046,2623,357,114,#demo0 #demo1 #demo2,synthetic,2026-11-17,synthetic_creator_11,fitness
+SYNTHETIC_025,youtube,gadget test | demo 25,A fabricated technology example for software demonstration only.,88071,1996,272,642,,synthetic,2026-11-17,synthetic_creator_0,technology
+SYNTHETIC_026,youtube,study skills | demo 26,A fabricated education example for software demonstration only.,2249,55,7,821,#demo0 #demo1 #demo2 #demo3 #demo4,synthetic,2026-11-17,synthetic_creator_1,education
+SYNTHETIC_027,youtube,movie reaction | demo 27,A fabricated entertainment example for software demonstration only.,85712,2119,289,317,,synthetic,2026-11-17,synthetic_creator_2,entertainment
+SYNTHETIC_028,youtube,baking bread | demo 28,A fabricated food example for software demonstration only.,82775,1580,215,827,#demo0,synthetic,2026-11-17,synthetic_creator_3,food
+SYNTHETIC_029,youtube,cardio exercise | demo 29,A fabricated fitness example for software demonstration only.,110655,2701,368,710,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_4,fitness
+SYNTHETIC_030,youtube,coding project | demo 30,A fabricated technology example for software demonstration only.,100664,2197,299,48,#demo0 #demo1 #demo2,synthetic,2026-11-17,synthetic_creator_5,technology
+SYNTHETIC_031,youtube,algebra lesson | demo 31,A fabricated education example for software demonstration only.,64061,1333,181,768,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_6,education
+SYNTHETIC_032,youtube,funny challenge | demo 32,A fabricated entertainment example for software demonstration only.,22450,270,36,726,#demo0,synthetic,2026-11-17,synthetic_creator_7,entertainment
+SYNTHETIC_033,youtube,pasta recipe | demo 33,A fabricated food example for software demonstration only.,75520,3243,442,369,#demo0 #demo1 #demo2 #demo3 #demo4 #demo5,synthetic,2026-11-17,synthetic_creator_8,food
+SYNTHETIC_034,youtube,strength training | demo 34,A fabricated fitness example for software demonstration only.,101981,1898,258,115,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_9,fitness
+SYNTHETIC_035,youtube,coding project | demo 35,A fabricated technology example for software demonstration only.,21060,659,89,640,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_10,technology
+SYNTHETIC_036,youtube,algebra lesson | demo 36,A fabricated education example for software demonstration only.,117240,2204,300,849,,synthetic,2026-11-17,synthetic_creator_11,education
+SYNTHETIC_037,youtube,comedy sketch | demo 37,A fabricated entertainment example for software demonstration only.,28038,438,59,839,#demo0 #demo1 #demo2 #demo3 #demo4,synthetic,2026-11-17,synthetic_creator_0,entertainment
+SYNTHETIC_038,youtube,street food | demo 38,A fabricated food example for software demonstration only.,111715,2902,395,600,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_1,food
+SYNTHETIC_039,youtube,yoga flow | demo 39,A fabricated fitness example for software demonstration only.,39374,1050,143,434,#demo0,synthetic,2026-11-17,synthetic_creator_2,fitness
+SYNTHETIC_040,youtube,phone review | demo 40,A fabricated technology example for software demonstration only.,70398,1548,211,765,,synthetic,2026-11-17,synthetic_creator_3,technology
+SYNTHETIC_041,youtube,history explained | demo 41,A fabricated education example for software demonstration only.,89323,2491,339,684,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_4,education
+SYNTHETIC_042,youtube,funny challenge | demo 42,A fabricated entertainment example for software demonstration only.,54165,1267,172,484,#demo0 #demo1 #demo2 #demo3 #demo4 #demo5,synthetic,2026-11-17,synthetic_creator_5,entertainment
+SYNTHETIC_043,youtube,baking bread | demo 43,A fabricated food example for software demonstration only.,44158,1045,142,852,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_6,food
+SYNTHETIC_044,youtube,cardio exercise | demo 44,A fabricated fitness example for software demonstration only.,23011,849,115,856,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_7,fitness
+SYNTHETIC_045,youtube,coding project | demo 45,A fabricated technology example for software demonstration only.,36776,809,110,173,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_8,technology
+SYNTHETIC_046,youtube,algebra lesson | demo 46,A fabricated education example for software demonstration only.,111714,1660,226,509,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_9,education
+SYNTHETIC_047,youtube,movie reaction | demo 47,A fabricated entertainment example for software demonstration only.,91293,2113,288,455,#demo0 #demo1 #demo2 #demo3 #demo4,synthetic,2026-11-17,synthetic_creator_10,entertainment
+SYNTHETIC_048,youtube,pasta recipe | demo 48,A fabricated food example for software demonstration only.,28447,606,82,584,#demo0 #demo1 #demo2,synthetic,2026-11-17,synthetic_creator_11,food
+SYNTHETIC_049,youtube,strength training | demo 49,A fabricated fitness example for software demonstration only.,96944,1993,271,891,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_0,fitness
+SYNTHETIC_050,youtube,phone review | demo 50,A fabricated technology example for software demonstration only.,63015,769,104,596,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_1,technology
+SYNTHETIC_051,youtube,study skills | demo 51,A fabricated education example for software demonstration only.,95300,2604,355,451,#demo0,synthetic,2026-11-17,synthetic_creator_2,education
+SYNTHETIC_052,youtube,dance performance | demo 52,A fabricated entertainment example for software demonstration only.,109323,3134,427,141,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_3,entertainment
+SYNTHETIC_053,youtube,cooking dinner | demo 53,A fabricated food example for software demonstration only.,11673,397,54,821,#demo0 #demo1 #demo2,synthetic,2026-11-17,synthetic_creator_4,food
+SYNTHETIC_054,youtube,strength training | demo 54,A fabricated fitness example for software demonstration only.,3072,95,12,565,#demo0 #demo1 #demo2 #demo3,synthetic,2026-11-17,synthetic_creator_5,fitness
+SYNTHETIC_055,youtube,computer setup | demo 55,A fabricated technology example for software demonstration only.,3118,109,14,369,#demo0 #demo1 #demo2 #demo3 #demo4 #demo5,synthetic,2026-11-17,synthetic_creator_6,technology
+SYNTHETIC_056,youtube,study skills | demo 56,A fabricated education example for software demonstration only.,116131,2282,311,347,#demo0 #demo1 #demo2 #demo3 #demo4,synthetic,2026-11-17,synthetic_creator_7,education
+SYNTHETIC_057,youtube,movie reaction | demo 57,A fabricated entertainment example for software demonstration only.,98109,2683,365,838,#demo0 #demo1 #demo2 #demo3 #demo4 #demo5,synthetic,2026-11-17,synthetic_creator_8,entertainment
+SYNTHETIC_058,youtube,cooking dinner | demo 58,A fabricated food example for software demonstration only.,43954,780,106,366,#demo0,synthetic,2026-11-17,synthetic_creator_9,food
+SYNTHETIC_059,youtube,strength training | demo 59,A fabricated fitness example for software demonstration only.,106696,2805,382,79,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_10,fitness
+SYNTHETIC_060,youtube,computer setup | demo 60,A fabricated technology example for software demonstration only.,34688,1008,137,281,#demo0 #demo1,synthetic,2026-11-17,synthetic_creator_11,technology
