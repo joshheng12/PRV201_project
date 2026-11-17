@@ -103,4 +103,3 @@ Counts of views/likes/comments are used only to define the response variable, ne
 .venv/Scripts/python -m pytest -q
 ```
 
-Read `docs/DESIGN.md`, `docs/SUBMISSION_CHECKLIST.md`, and `docs/DEMO_SCRIPT.md`. This package is repository-ready source, not a published GitHub repository. Create or use your team's repository, include the code/design/evidence, and submit its link according to course rules. Review and understand all code and disclose AI assistance if your course requires it.
